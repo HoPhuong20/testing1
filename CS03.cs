@@ -23,7 +23,7 @@ switch (b)
         Console.WriteLine(" la so 2");
         break;
     default:
-        Console.WriteLine("day la bien b chua gan gia tri");
+        Console.WriteLine("day la bien so b");
         break;
 }
 
