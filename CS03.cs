@@ -12,9 +12,9 @@ var max = a > b ? "a > b":"a < b";
 Console.WriteLine(max);
 
 if(a > b) {
-    Console.WriteLine("a lon hon b");
+    Console.WriteLine("a > b");
 } else {
-    Console.WriteLine("a be hon b");
+    Console.WriteLine("a < b");
 }
 
 switch (b)
