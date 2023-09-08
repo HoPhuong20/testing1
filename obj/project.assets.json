@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspaces\\Dot Net\\CS03\\CS03.csproj",
+      "projectUniqueName": "d:\\Workspaces\\testing\\testing1\\CS03.csproj",
       "projectName": "CS03",
-      "projectPath": "D:\\Workspaces\\Dot Net\\CS03\\CS03.csproj",
+      "projectPath": "d:\\Workspaces\\testing\\testing1\\CS03.csproj",
       "packagesPath": "C:\\Users\\lanle\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspaces\\Dot Net\\CS03\\obj\\",
+      "outputPath": "d:\\Workspaces\\testing\\testing1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lanle\\AppData\\Roaming\\NuGet\\NuGet.Config"

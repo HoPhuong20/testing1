@@ -20,7 +20,7 @@ if(a > b) {
 switch (b)
 {
     case 2:
-        Console.WriteLine("day la so 2");
+        Console.WriteLine(" la so 2");
         break;
     default:
         Console.WriteLine("day la bien b chua gan gia tri");
