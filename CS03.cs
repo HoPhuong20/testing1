@@ -23,7 +23,7 @@ switch (b)
         Console.WriteLine(" la so 2");
         break;
     default:
-        Console.WriteLine(" vi bien b");
+        Console.WriteLine(" bien b");
         break;
 }
 
