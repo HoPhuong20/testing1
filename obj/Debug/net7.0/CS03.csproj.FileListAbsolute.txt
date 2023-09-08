@@ -1,0 +1,15 @@
+D:\Workspaces\Dot Net\CS03\obj\Debug\net7.0\CS03.csproj.AssemblyReference.cache
+D:\Workspaces\Dot Net\CS03\obj\Debug\net7.0\CS03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\Dot Net\CS03\obj\Debug\net7.0\CS03.AssemblyInfoInputs.cache
+D:\Workspaces\Dot Net\CS03\obj\Debug\net7.0\CS03.AssemblyInfo.cs
+D:\Workspaces\Dot Net\CS03\obj\Debug\net7.0\CS03.csproj.CoreCompileInputs.cache
+D:\Workspaces\Dot Net\CS03\bin\Debug\net7.0\CS03.exe
+D:\Workspaces\Dot Net\CS03\bin\Debug\net7.0\CS03.deps.json
+D:\Workspaces\Dot Net\CS03\bin\Debug\net7.0\CS03.runtimeconfig.json
+D:\Workspaces\Dot Net\CS03\bin\Debug\net7.0\CS03.dll
+D:\Workspaces\Dot Net\CS03\bin\Debug\net7.0\CS03.pdb
+D:\Workspaces\Dot Net\CS03\obj\Debug\net7.0\CS03.dll
+D:\Workspaces\Dot Net\CS03\obj\Debug\net7.0\refint\CS03.dll
+D:\Workspaces\Dot Net\CS03\obj\Debug\net7.0\CS03.pdb
+D:\Workspaces\Dot Net\CS03\obj\Debug\net7.0\CS03.genruntimeconfig.cache
+D:\Workspaces\Dot Net\CS03\obj\Debug\net7.0\ref\CS03.dll
